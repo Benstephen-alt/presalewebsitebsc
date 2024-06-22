@@ -623,7 +623,7 @@
                                             e.next = 21;
                                             break
                                         }
-                                        Y.b.error("Error! Maximum amount is 200 BNB"), e.next = 38;
+                                        Y.b.error("Error! Maximum amount is 20 BNB"), e.next = 38;
                                         break;
                                     case 21:
                                         return e.prev = 21, k(!0), console.log(Object($.e)(b.toString()).toString(), "parseUnits(amount.toString())"), e.next = 26, i.buyTokens(n, {
@@ -680,7 +680,7 @@
                                             color: "",
                                             fontSize: "30px"
                                         },
-                                        children: "Techaddict Coin Presale"
+                                        children: "KAI Coin Presale"
                                     }), Object(h.jsx)("h3", {
                                         
                                     }), ]
@@ -714,7 +714,7 @@
                                                 color: "#ffffff",
                                                 fontFamily: "Secular One",
                                                 textAlign: "center",
-                                                children: "Buy EIYE Coin"
+                                                children: "Buy KAI Coin"
                                             }), Object(h.jsxs)(u.a, {
                                                 mt: 2,
                                                 mb: 2,
@@ -923,7 +923,7 @@
                                                     fontSize: "16px",
                                                     color: "#ffffff",
                                                     fontFamily: "Chakra Petch",
-                                                    children: "EIYE Coin Token"
+                                                    children: "KAI Coin Token"
                                                 })]
                                             }), Object(h.jsxs)(u.a, {
                                                 display: "flex",
@@ -945,7 +945,7 @@
                                                     fontSize: "16px",
                                                     color: "#ffffff",
                                                     fontFamily: "Chakra Petch",
-                                                    children: "EIYC"
+                                                    children: "KAI"
                                                 })]
                                             }), Object(h.jsxs)(u.a, {
                                                 display: "flex",
@@ -1150,7 +1150,7 @@
                                                         href: ""
                                                     }), Object(h.jsx)("em", {
                                                         children: Object(h.jsx)("b", {
-                                                            children: "EIYE Coin Website"
+                                                            children: "KAI Coin Website"
                                                         })
                                                     }), ". a prompt shows, choose network and click ", Object(h.jsx)("em", {
                                                         children: Object(h.jsx)("b", {
@@ -1162,7 +1162,7 @@
                                                         children: "confirm."
                                                     })]
                                                 }), Object(h.jsx)("li", {
-                                                    children: "Once connected, enter the amount of EIYE Coin you want to buy with BNB "
+                                                    children: "Once connected, enter the amount of KAI Coin you want to buy with BNB "
                                                 })]
                                             })]
                                         })]
