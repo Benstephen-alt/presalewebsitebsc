@@ -680,7 +680,7 @@
                                             color: "",
                                             fontSize: "30px"
                                         },
-                                        children: "KAI Chain Coin Presale: Launching oprice; 0.05"
+                                        children: "KAI Chain Coin Presale: Launching price; 0.05"
                                     }), Object(h.jsx)("h3", {
                                         
                                     }), ]
