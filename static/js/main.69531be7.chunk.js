@@ -680,7 +680,7 @@
                                             color: "",
                                             fontSize: "30px"
                                         },
-                                        children: "KAI Coin Presale"
+                                        children: "KAI Chain Coin Presale: Launching oprice; 0.05"
                                     }), Object(h.jsx)("h3", {
                                         
                                     }), ]
@@ -854,7 +854,7 @@
                                                             height: "20px",
                                                             src: N,
                                                             alt: ""
-                                                        }), " ", "EYC"]
+                                                        }), " ", "KAI"]
                                                     })]
                                                 })]
                                             }), Object(h.jsx)(u.a, {
@@ -989,7 +989,7 @@
                                                     fontSize: "16px",
                                                     color: "#ffffff",
                                                     fontFamily: "Chakra Petch",
-                                                    children: "1000000"
+                                                    children: "17000"
                                                 })]
                                             }), Object(h.jsxs)(u.a, {
                                                 display: "flex",
@@ -1033,7 +1033,7 @@
                                                     fontSize: "16px",
                                                     color: "#ffffff",
                                                     fontFamily: "Chakra Petch",
-                                                    children: ["200 BNB", " "]
+                                                    children: ["20 BNB", " "]
                                                 })]
                                             })]
                                         })
