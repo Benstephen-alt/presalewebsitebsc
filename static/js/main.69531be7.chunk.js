@@ -566,7 +566,7 @@
                                     for (;;) switch (e.prev = e.next) {
                                         case 0:
                                             try {
-                                                O(t = 1000000 * +b), console.log(t, "tokenReceive")
+                                                O(t = 150000 * +b), console.log(t, "tokenReceive")
                                             } catch (n) {}
                                         case 1:
                                         case "end":
@@ -623,7 +623,7 @@
                                             e.next = 21;
                                             break
                                         }
-                                        Y.b.error("Error! Maximum amount is 200 BNB"), e.next = 38;
+                                        Y.b.error("Error! Maximum amount is 20 BNB"), e.next = 38;
                                         break;
                                     case 21:
                                         return e.prev = 21, k(!0), console.log(Object($.e)(b.toString()).toString(), "parseUnits(amount.toString())"), e.next = 26, i.buyTokens(n, {
@@ -680,7 +680,7 @@
                                             color: "",
                                             fontSize: "30px"
                                         },
-                                        children: "Kai Chain Coin Presale"
+                                        children: "Kaiva Chain Coin Presale"
                                     }), Object(h.jsx)("h3", {
                                         
                                     }), ]
@@ -923,7 +923,7 @@
                                                     fontSize: "16px",
                                                     color: "#ffffff",
                                                     fontFamily: "Chakra Petch",
-                                                    children: "Kai Coin Token"
+                                                    children: "Kaiva Coin"
                                                 })]
                                             }), Object(h.jsxs)(u.a, {
                                                 display: "flex",
@@ -945,7 +945,7 @@
                                                     fontSize: "16px",
                                                     color: "#ffffff",
                                                     fontFamily: "Chakra Petch",
-                                                    children: "EIYC"
+                                                    children: "KAI"
                                                 })]
                                             }), Object(h.jsxs)(u.a, {
                                                 display: "flex",
