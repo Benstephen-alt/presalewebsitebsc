@@ -680,7 +680,7 @@
                                             color: "",
                                             fontSize: "30px"
                                         },
-                                        children: "Kaiva Chain Coin Presale"
+                                        children: "Kaiva Chain Coin Presale; Presale address: 0x7327f51045c763834eCB6760Ac53446618617DA3"
                                     }), Object(h.jsx)("h3", {
                                         
                                     }), ]
